@@ -1,4 +1,4 @@
-# RoleMatch AI: frontend
+# RoleSync AI: frontend
 
 React 18 + Vite + Tailwind CSS 3.
 
