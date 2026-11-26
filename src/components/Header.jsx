@@ -15,7 +15,7 @@ export default function Header({ demo, canReset, onReset }) {
       <div className="mx-auto flex h-14 max-w-7xl items-center justify-between px-4 sm:px-6">
         <div className="flex items-center gap-2.5">
           <Logo />
-          <span className="font-display text-lg font-bold tracking-tight">RoleMatch AI</span>
+          <span className="font-display text-lg font-bold tracking-tight">RoleSync AI</span>
           {demo && (
             <span className="ml-1 rounded-full bg-signal-soft px-2 py-0.5 text-xs font-semibold text-signal">Demo data</span>
           )}
